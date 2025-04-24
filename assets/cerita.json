@@ -1,0 +1,154 @@
+{
+  "Dongeng Binatang": [
+    {
+      "judul": "Kura-Kura dan Kelinci",
+      "kategori": "Dongeng Binatang",
+      "cerita": "Kura-kura dan kelinci berlomba untuk melihat siapa yang bisa sampai ke garis finish lebih dulu. Kelinci yang sombong merasa pasti menang, namun dia tertidur di tengah jalan. Kura-kura yang pelan namun tekun akhirnya memenangkan lomba.",
+      "pesan_moral": "Kerja keras dan ketekunan akan mengalahkan kesombongan."
+    },
+    {
+      "judul": "Ulat yang Sombong",
+      "kategori": "Dongeng Binatang",
+      "cerita": "Seekor ulat yang sombong merasa dirinya lebih hebat dari teman-temannya yang lain. Setelah bertahun-tahun berubah menjadi kepompong dan akhirnya menjadi kupu-kupu, ia menyadari betapa berharganya proses perubahan.",
+      "pesan_moral": "Jangan sombong dengan apa yang kita miliki, karena perubahan adalah bagian dari kehidupan."
+    },
+    {
+      "judul": "Beruang dan Lebah",
+      "kategori": "Dongeng Binatang",
+      "cerita": "Beruang yang ingin mencuri madu dari sarang lebah diserang oleh lebah-lebah yang sangat marah. Namun, beruang itu akhirnya belajar untuk menghargai usaha lebah dan tidak lagi mengganggu mereka.",
+      "pesan_moral": "Jangan mengambil apa yang bukan hakmu, dan hormati usaha orang lain."
+    },
+    {
+      "judul": "Serigala yang Baik Hati",
+      "kategori": "Dongeng Binatang",
+      "cerita": "Serigala yang dikenal sebagai makhluk yang menakutkan ternyata memiliki hati yang baik. Ia membantu seekor domba yang terluka dan menjaga keselamatannya. Meskipun serigala sering dianggap jahat, ia membuktikan bahwa tidak semua serigala itu jahat.",
+      "pesan_moral": "Jangan menilai orang hanya dari penampilannya saja."
+    },
+    {
+      "judul": "Kancil dan Tikus",
+      "kategori": "Dongeng Binatang",
+      "cerita": "Kancil yang cerdik bekerja sama dengan tikus untuk mengalahkan musuh yang lebih besar, seperti harimau dan buaya. Dengan kecerdikan dan kerja sama, mereka berhasil mencapai tujuan mereka.",
+      "pesan_moral": "Kerja sama dan kecerdikan bisa mengatasi kekuatan fisik yang lebih besar."
+    },
+    {
+      "judul": "Anak Kambing dan Serigala",
+      "kategori": "Dongeng Binatang",
+      "cerita": "Anak kambing yang sedang merumput di padang rumput bertemu dengan serigala yang berusaha membohonginya. Dengan kecerdikannya, anak kambing berhasil menyelamatkan dirinya dari serigala tersebut.",
+      "pesan_moral": "Waspadai orang yang tidak dikenal, dan gunakan kecerdikan untuk melindungi diri."
+    }
+  ],
+  "Cerita Rakyat": [
+    {
+      "judul": "Sangkuriang",
+      "kategori": "Cerita Rakyat",
+      "cerita": "Sangkuriang yang jatuh cinta pada Dayang Sumbi, ibunya, tanpa mengetahui bahwa dia adalah ibunya. Setelah diberi tugas untuk membuat danau dan perahu dalam semalam, Sangkuriang gagal karena perasaan marah. Ia pun terpaksa membunuh Dayang Sumbi yang kemudian berubah menjadi batu.",
+      "pesan_moral": "Jangan pernah melawan takdir, dan selalu hormati orang yang lebih tua."
+    },
+    {
+      "judul": "Legenda Danau Toba",
+      "kategori": "Cerita Rakyat",
+      "cerita": "Seorang pemuda jatuh cinta pada seorang putri ikan yang kemudian menjadi manusia. Namun, mereka dilarang untuk mengungkapkan asal usulnya. Karena pemuda tersebut melanggar larangan tersebut, sang putri berubah kembali menjadi ikan dan akhirnya Danau Toba terbentuk.",
+      "pesan_moral": "Hormatilah janji dan tidak melanggar aturan yang telah ditetapkan."
+    },
+    {
+      "judul": "Malin Kundang",
+      "kategori": "Cerita Rakyat",
+      "cerita": "Malin Kundang, seorang anak yang miskin, pergi merantau dan menjadi kaya raya. Namun, ketika pulang, ia tidak mengakui ibunya dan menolak untuk menghormatinya. Ibunya yang sedih kemudian mengutuknya menjadi batu.",
+      "pesan_moral": "Jangan pernah melupakan orang tua, karena mereka adalah orang yang paling berjasa dalam hidupmu."
+    },
+    {
+      "judul": "Legenda Telaga Bidadari",
+      "kategori": "Cerita Rakyat",
+      "cerita": "Seorang raja yang jatuh cinta pada seorang bidadari yang datang dari langit. Namun, karena raja tersebut melanggar janji, sang bidadari kembali ke langit dan meninggalkan telaga yang kemudian dikenal sebagai Telaga Bidadari.",
+      "pesan_moral": "Jangan melanggar janji, karena dapat membawa penyesalan di kemudian hari."
+    },
+    {
+      "judul": "Legenda Bawang Merah Bawang Putih",
+      "kategori": "Cerita Rakyat",
+      "cerita": "Bawang Merah yang jahat dan Bawang Putih yang baik hati, keduanya memiliki nasib yang berbeda. Bawang Merah selalu menyusahkan Bawang Putih, namun akhirnya Bawang Putih mendapat pertolongan dari seorang permaisuri dan Bawang Merah mendapat hukuman.",
+      "pesan_moral": "Kejahatan akan selalu mendapat balasan, sedangkan kebaikan akan dihargai."
+    },
+    {
+      "judul": "Legenda Timun Mas",
+      "kategori": "Cerita Rakyat",
+      "cerita": "Timun Mas adalah seorang gadis yang dibesarkan oleh seorang ibu yang baik hati. Namun, dia dikejar-kejar oleh raksasa yang menginginkan Timun Mas sebagai makanannya. Dengan bantuan dari benda-benda ajaib, Timun Mas berhasil mengalahkan raksasa dan hidup bahagia.",
+      "pesan_moral": "Keberanian dan bantuan yang datang pada saat yang tepat akan membantu mengatasi masalah besar."
+    }
+  ],
+  "Kisah Nabi dan Rasul": [
+    {
+      "judul": "Nabi Adam A.S",
+      "kategori": "Kisah Nabi dan Rasul",
+      "cerita": "Nabi Adam A.S adalah manusia pertama yang diciptakan oleh Allah. Ia ditempatkan di surga dan diberi segala kenikmatan. Namun, ia melanggar perintah Allah dengan memakan buah terlarang. Sebagai akibatnya, Nabi Adam dan Hawa diturunkan ke bumi, namun Allah memberikan petunjuk untuknya agar bertaubat.",
+      "pesan_moral": "Kesalahan bisa terjadi pada siapa saja, namun bertaubat dengan sungguh-sungguh akan membawa ampunan Allah."
+    },
+    {
+      "judul": "Nabi Idris A.S",
+      "kategori": "Kisah Nabi dan Rasul",
+      "cerita": "Nabi Idris A.S adalah seorang nabi yang dikenal sebagai orang pertama yang menulis dan mempelajari ilmu. Ia juga terkenal karena ketakwaannya kepada Allah. Nabi Idris mengajarkan umatnya untuk rajin beribadah dan menuntut ilmu, hingga ia diangkat oleh Allah ke langit.",
+      "pesan_moral": "Menuntut ilmu adalah kewajiban bagi setiap umat, dan ketakwaan kepada Allah akan membawa kebahagiaan."
+    },
+    {
+      "judul": "Nabi Nuh A.S",
+      "kategori": "Kisah Nabi dan Rasul",
+      "cerita": "Nabi Nuh A.S diutus untuk menyelamatkan umatnya dari kebinasaan karena mereka menyembah berhala. Setelah mengajak umatnya untuk beriman, hanya sedikit yang mengikuti. Nabi Nuh membangun sebuah kapal besar dan selamat dari banjir besar yang menenggelamkan umat yang tidak beriman.",
+      "pesan_moral": "Kesabaran dan keteguhan dalam berjuang untuk kebaikan akan selalu membawa kemenangan."
+    },
+    {
+      "judul": "Nabi Hud A.S",
+      "kategori": "Kisah Nabi dan Rasul",
+      "cerita": "Nabi Hud A.S diutus untuk umat ‘Ad yang sombong dan keras kepala. Meskipun sudah diberikan banyak peringatan oleh Nabi Hud, mereka tetap menolak dan terus berbuat dosa. Akhirnya, Allah menurunkan azab yang menghancurkan mereka.",
+      "pesan_moral": "Jangan sombong dan menolak petunjuk Allah, karena kebinasaan akan datang bagi yang tidak mendengarkan peringatan."
+    },
+    {
+      "judul": "Nabi Shaleh A.S",
+      "kategori": "Kisah Nabi dan Rasul",
+      "cerita": "Nabi Shaleh A.S diutus untuk umat Tsamud yang tinggal di daerah pegunungan. Mereka diberi mukjizat berupa unta betina yang keluar dari batu, namun mereka tetap menolak beriman. Akibatnya, umat Tsamud dihancurkan oleh azab Allah.",
+      "pesan_moral": "Beriman kepada Allah dan menghargai mukjizat yang diberikan-Nya adalah kewajiban setiap umat."
+    },
+    {
+      "judul": "Nabi Ibrahim A.S",
+      "kategori": "Kisah Nabi dan Rasul",
+      "cerita": "Nabi Ibrahim A.S dikenal karena keimanannya yang sangat kuat kepada Allah. Ia tidak takut untuk menentang kejahatan, termasuk ketika ia dihukum untuk dibakar hidup-hidup oleh raja yang zalim. Namun, Allah menyelamatkannya dari api yang sangat panas dan memberikan ujian lainnya yang ia jalani dengan sabar.",
+      "pesan_moral": "Keimanan yang kuat kepada Allah akan mengatasi segala rintangan dan kesulitan dalam hidup."
+    }
+  ],
+  "Dongeng Fiksi / Princess": [
+    {
+      "judul": "Princess Aurora",
+      "kategori": "Dongeng Fiksi",
+      "cerita": "Princess Aurora terlahir dengan kutukan dari penyihir jahat yang mengatakan bahwa ia akan tertidur selama seratus tahun setelah menusukkan jarinya ke jarum spindle. Beruntung, seorang peri baik hati mengubah kutukan tersebut menjadi tidur panjang yang hanya bisa dibangunkan oleh ciuman cinta sejati. Suatu hari, seorang pangeran datang dan membangunkannya.",
+      "pesan_moral": "Cinta sejati akan mengalahkan segala rintangan dan membangkitkan harapan."
+    },
+    {
+      "judul": "Princess Ariel",
+      "kategori": "Dongeng Fiksi",
+      "cerita": "Princess Ariel adalah putri duyung yang ingin menjadi manusia setelah jatuh cinta pada seorang pangeran. Ia rela mengorbankan suaranya untuk mendapatkan kaki manusia dari penyihir laut. Meskipun mengalami banyak rintangan, Ariel akhirnya mendapatkan kebahagiaan dengan sang pangeran.",
+      "pesan_moral": "Cinta dan pengorbanan dapat membawa kebahagiaan sejati, meskipun penuh tantangan."
+    },
+    {
+      "judul": "Princess Belle",
+      "kategori": "Dongeng Fiksi",
+      "cerita": "Princess Belle adalah gadis cantik dan cerdas yang hidup di desa. Ia dipenjara di kastil oleh makhluk aneh yang ternyata adalah pangeran yang terkutuk. Dengan kebaikan hati Belle, kutukan tersebut akhirnya terangkat dan pangeran kembali menjadi manusia.",
+      "pesan_moral": "Keindahan sejati terletak pada hati, bukan penampilan luar."
+    },
+    {
+      "judul": "Princess Cinderella",
+      "kategori": "Dongeng Fiksi",
+      "cerita": "Cinderella, yang hidup di bawah kekuasaan ibu tiri yang kejam, mendapat kesempatan untuk pergi ke pesta dansa kerajaan berkat bantuan ibu peri. Setelah kehilangan sepatu kaca, pangeran mencarinya dan akhirnya menikahinya.",
+      "pesan_moral": "Kesabaran dan kebaikan hati akan membuahkan hasil yang indah pada akhirnya."
+    },
+    {
+      "judul": "Princess Jasmine",
+      "kategori": "Dongeng Fiksi",
+      "cerita": "Princess Jasmine merasa terkekang oleh aturan kerajaan dan ingin hidup bebas. Ia bertemu dengan seorang pemuda bernama Aladdin yang membantunya melihat dunia luar dan memilih untuk menikahinya, meskipun awalnya ia harus menyamar sebagai orang biasa.",
+      "pesan_moral": "Jadilah diri sendiri dan jangan takut untuk mengejar kebebasan dan kebahagiaan."
+    },
+    {
+      "judul": "Princess Moana",
+      "kategori": "Dongeng Fiksi",
+      "cerita": "Princess Moana adalah putri yang berani dan petualang. Meski dihalangi oleh keluarganya, ia memutuskan untuk berlayar menyelamatkan rakyatnya dari bencana alam. Perjalanan ini membawanya pada penemuan diri dan kepercayaan pada kemampuan dirinya.",
+      "pesan_moral": "Percayalah pada diri sendiri dan berani untuk mengambil langkah besar demi kebaikan banyak orang."
+    }
+  ]
+}
