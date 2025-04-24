@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#FFFDF6">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <!-- Judul Cerita -->
+        <TextView
+            android:id="@+id/tvJudulCerita"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Timun Mas"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#3C3C3C"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Tombol Tanya dengan Suara -->
+        <Button
+            android:id="@+id/btnTanyaSuara"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🎤 Tanya Cerita Ini"
+            android:backgroundTint="#FF9800"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp"
+            android:textSize="16sp"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Teks Pertanyaan -->
+        <TextView
+            android:id="@+id/tvPertanyaan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kamu bertanya:"
+            android:textStyle="bold"
+            android:textColor="#555555"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:id="@+id/tvTeksPertanyaan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Apa isi cerita Timun Mas?"
+            android:textColor="#333333"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Teks Jawaban -->
+        <TextView
+            android:id="@+id/tvJawaban"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jawaban AI:"
+            android:textStyle="bold"
+            android:textColor="#555555"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:id="@+id/tvTeksJawaban"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cerita ini tentang seorang gadis pemberani yang melawan raksasa jahat."
+            android:textColor="#333333"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Tombol Ulangi Jawaban -->
+        <Button
+            android:id="@+id/btnUlangiJawaban"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🔊 Ulangi Jawaban"
+            android:backgroundTint="#4CAF50"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp" />
+    </LinearLayout>
+</ScrollView>

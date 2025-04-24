@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:padding="16dp"
+    android:gravity="center_horizontal">
+
+    <!-- Gambar Kura-Kura dan Kelinci -->
+    <ImageView
+        android:id="@+id/imageViewKuraKelinci"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/kura_kelinci"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"
+        android:contentDescription="Gambar Kura-Kura dan Kelinci" />
+
+    <!-- Judul Cerita -->
+    <TextView
+        android:id="@+id/textViewJudul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kura-Kura dan Kelinci Baik Hati"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:textColor="#D81B60" />
+
+    <!-- ScrollView untuk cerita -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingTop="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewCerita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:lineSpacingExtra="4dp"
+                android:padding="10dp"
+                android:textColor="#000000" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <!-- Pesan Moral -->
+    <TextView
+        android:id="@+id/textViewPesanMoral"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:lineSpacingExtra="4dp"
+        android:padding="10dp"
+        android:textColor="#800080"
+        android:textStyle="italic"
+        android:gravity="center" />
+
+
+</LinearLayout>
